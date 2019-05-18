@@ -1,2 +1,4 @@
 New File
 one line aded to staged file
+modified
+Last change added

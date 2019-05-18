@@ -1,0 +1,2 @@
+New File
+one line aded to staged file

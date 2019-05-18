@@ -1,0 +1,5 @@
+
+# Create an empty Git repository or reinitialize an existing one
+1. git init 
+
+# 

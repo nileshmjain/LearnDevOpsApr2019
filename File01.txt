@@ -1,3 +1,0 @@
-New File added
-
-File edited before commit
